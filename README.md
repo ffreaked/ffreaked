@@ -8,7 +8,7 @@ Tenho um emprego de meio período em um escritório de contabilidade (Lc1 Contad
 
 Geralmente gasto meu tempo livre jogando video-game, assistindo algum anime ou série e às vezes lendo
 
-Estou estudando Python, Java, JavaScript (Html e css por enquanto não é o meu foco)
+Estou estudando Python, Java, JavaScript (Html e Css por enquanto não é o meu foco)
 
 Pretendo fazer faculdade de TI e me tornar um programador Full-Stack
 
