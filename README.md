@@ -10,6 +10,6 @@ Geralmente gasto meu tempo livre jogando video-game, assistindo algum anime ou s
 
 Estou estudando Python, Java, JavaScript (Html e Css por enquanto não é o meu foco)
 
-Pretendo fazer faculdade de TI e me tornar um programador Full-Stack
+Pretendo fazer faculdade de TI
 
 Discord: freakEd #5409
