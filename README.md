@@ -6,7 +6,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoranucci&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div algn="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <a href='https://www.python.org'><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
