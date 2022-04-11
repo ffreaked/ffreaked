@@ -9,7 +9,7 @@
 <div align="center" style="display: inline_block"><br>
 
   <a href='https://www.python.org' target="blank"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-  <a href='https://www.djangoproject.com' target="blank"><img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/></a>
+  <a href='https://www.djangoproject.com' target="blank"><img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/></a>
   <a href='https://www.w3.org/standards/' target="blank"><img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
   <a href='https://www.w3.org/standards/' target="blank"><img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
   <a href='https://www.javascript.com' target="blank"><img align="center" alt="JavaScipt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
