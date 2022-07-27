@@ -13,7 +13,7 @@
   <a href='https://www.w3.org/standards/' target="blank"><img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
   <a href='https://www.w3.org/standards/' target="blank"><img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
   <a href='https://www.javascript.com' target="blank"><img align="center" alt="JavaScipt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-  <a href='https://www.oracle.com/java/' target="blank"><img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+  <a href='https://docs.microsoft.com/pt-br/dotnet/csharp/' target="blank"><img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></a>
   <a href='https://git-scm.com' target="blank"><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
   <img align="right" alt="Icon-gif" height="100" width="100" src="https://media0.giphy.com/media/jW3Xyd4HEtzGc6Oz2D/giphy.gif?cid=790b76110e1309131198be7a0294bc81946be3ab7ea87600&rid=giphy.gif&ct=s"/>
 
